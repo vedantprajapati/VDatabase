@@ -1,0 +1,8 @@
+tester*
+*.log
+Debug
+Release
+*.json
+__test.cc
+gen.so
+
