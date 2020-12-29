@@ -1,0 +1,12 @@
+User {
+    firstName: string;
+    lastName: string;
+    height: float;
+    age: integer;
+}
+
+Account {
+    user: User;
+    type: string;
+    balance: float;
+}

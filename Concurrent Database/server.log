@@ -1,0 +1,56 @@
+
+-------- /nfs/ug/cad/cad2/ece326f/tester/scripts/lab3-01-insert.py --------
+
+Listening: TcpListener { addr: 127.0.0.1:2768, fd: 3 }
+
+-------- /nfs/ug/cad/cad2/ece326f/tester/scripts/lab3-02-update.py --------
+
+Listening: TcpListener { addr: 127.0.0.1:5430, fd: 3 }
+
+-------- /nfs/ug/cad/cad2/ece326f/tester/scripts/lab3-03-drop.py --------
+
+Listening: TcpListener { addr: 127.0.0.1:6256, fd: 3 }
+
+-------- /nfs/ug/cad/cad2/ece326f/tester/scripts/lab3-04-scan.py --------
+
+Listening: TcpListener { addr: 127.0.0.1:1218, fd: 3 }
+
+-------- /nfs/ug/cad/cad2/ece326f/tester/scripts/lab3-05-stress.py --------
+
+Listening: TcpListener { addr: 127.0.0.1:3026, fd: 3 }
+
+-------- /nfs/ug/cad/cad2/ece326f/tester/scripts/lab3-06-parallel.py --------
+
+Listening: TcpListener { addr: 127.0.0.1:2483, fd: 3 }
+
+-------- /nfs/ug/cad/cad2/ece326f/tester/scripts/lab3-07-speedup.py --------
+
+Listening: TcpListener { addr: 127.0.0.1:9559, fd: 3 }
+
+-------- /nfs/ug/cad/cad2/ece326f/tester/scripts/lab3-07-speedup.py --------
+
+Listening: TcpListener { addr: 127.0.0.1:4856, fd: 3 }
+
+-------- /nfs/ug/cad/cad2/ece326f/tester/scripts/lab3-07-speedup.py --------
+
+Listening: TcpListener { addr: 127.0.0.1:1268, fd: 3 }
+
+-------- /nfs/ug/cad/cad2/ece326f/tester/scripts/lab3-07-speedup.py --------
+
+Listening: TcpListener { addr: 127.0.0.1:2878, fd: 3 }
+
+-------- /nfs/ug/cad/cad2/ece326f/tester/scripts/lab3-07-speedup.py --------
+
+Listening: TcpListener { addr: 127.0.0.1:3441, fd: 3 }
+
+-------- /nfs/ug/cad/cad2/ece326f/tester/scripts/lab3-07-speedup.py --------
+
+Listening: TcpListener { addr: 127.0.0.1:7563, fd: 3 }
+
+-------- /nfs/ug/cad/cad2/ece326f/tester/scripts/lab3-08-limit.py --------
+
+Listening: TcpListener { addr: 127.0.0.1:3294, fd: 3 }
+
+-------- /nfs/ug/cad/cad2/ece326f/tester/scripts/lab3-09-synch.py --------
+
+Listening: TcpListener { addr: 127.0.0.1:3357, fd: 3 }
